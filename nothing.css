@@ -1,0 +1,11 @@
+
+body{
+    background-color: blueviolet;  
+}
+@media screen (min-width:500px) body{
+        background-color : brown;
+    }
+
+    
+
+    
